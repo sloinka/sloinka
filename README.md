@@ -3,10 +3,6 @@
 <h3>About Me</h3>
 <p>I'm a Full Stack Developer, currently improving myself on Golang.</p>
 <hr>
-
 <br>
-<hr>
-<br>
-
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k7z3pk7vrvw693cxhz2du8eck&cover_image=true&theme=default&show_offline=false&background_color=121212)
 <br>
